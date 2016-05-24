@@ -1,0 +1,36 @@
+{
+  "intents": [{
+    "intent": "AddSnackIntent",
+    "slots": [{
+      "name": "SnackName",
+      "type": "AMAZON.LITERAL"
+    }, {
+      "name": "SnackRank",
+      "type": "AMAZON.NUMBER"
+    }]
+  }, {
+    "intent": "RegisterUserIntent",
+    "slots": [{
+      "name": "Username",
+      "type": "AMAZON.LITERAL"
+    }]
+  }, {
+    "intent": "GiveMeSnackIntent"
+  }, {
+    "intent": "DontKnowIntent"
+  }, {
+    "intent": "AMAZON.StartOverIntent"
+  }, {
+    "intent": "AMAZON.RepeatIntent"
+  }, {
+    "intent": "AMAZON.HelpIntent"
+  }, {
+    "intent": "AMAZON.YesIntent"
+  }, {
+    "intent": "AMAZON.NoIntent"
+  }, {
+    "intent": "AMAZON.StopIntent"
+  }, {
+    "intent": "AMAZON.CancelIntent"
+  }]
+}

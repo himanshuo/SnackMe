@@ -1,0 +1,52 @@
+AddSnackIntent give {fritos|SnackName} a rank of {SnackRank}
+
+AddSnackIntent {cheetoes|SnackName} are good. give them a rank of {SnackRank}
+
+AddSnackIntent I like {cookies|SnackName} Rank them as {SnackRank}
+
+AddSnackIntent rank {chips|SnackName} with {SnackRank} points
+
+AddSnackIntent {nachos|SnackName} are {SnackRank} points
+
+GiveMeSnackIntent get a snack
+
+GiveMeSnackIntent get a snack suggestion
+
+GiveMeSnackIntent i want a snack
+
+GiveMeSnackIntent i am hungry
+
+GiveMeSnackIntent snack time
+
+GiveMeSnackIntent suggest a snack
+
+RegisterUserIntent {Username}
+
+RegisterUserIntent I am {Username}
+
+RegisterUserIntent My name is {Username}
+
+AMAZON.StartOverIntent start game
+
+AMAZON.StartOverIntent new game
+
+AMAZON.StartOverIntent start
+
+AMAZON.StartOverIntent start new game
+
+
+DontKnowIntent i don't know
+
+DontKnowIntent don't know
+
+DontKnowIntent skip
+
+DontKnowIntent i don't know that
+
+DontKnowIntent who knows
+
+DontKnowIntent i don't know this question
+
+DontKnowIntent i don't know that one
+
+DontKnowIntent dunno
